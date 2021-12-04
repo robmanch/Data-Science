@@ -9,11 +9,20 @@ My name is Robin Manchanda. I have two years of professional experience working 
 ## Content
 
 This repository holds all of my personal projects that I've done so far. The current contents are as follows:
-1.
-2.
-3.
-4.
-5.
+1. [Computer Vision](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision)
+    - [Coronavirus disease (COVID-19) detection in Chest X-Ray images using majority voting based classifier](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision/COVID-19-detection-in-Chest-X-Ray-images-using-majority-voting-based-classifier)
+    - [Dogs vs Cat Classifier using transfer learning](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision/Dogs-vs-Cat-Classifier-using-transfer-learning)
+    - [Facial-Keypoints](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision/Facial-Keypoints)
+
+2. [Natural Language Processing](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing)
+    - [E Commerce Rating Predictor](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing/E-Commerce-Rating-Predictor)
+    - [Extracting part of a tweet that reflects sentiment](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing/Extracting-part-of-a-tweet-that-reflects-sentiment)
+
+3. [Tableau](https://github.com/robmanch/Data-Science/tree/main/Tableau)
+4. [Web Scraping](https://github.com/robmanch/Data-Science/tree/main/Web%20Scraping)
+5. [Others](https://github.com/robmanch/Data-Science/tree/main/others)
+
+    - [Linear Regression Using Normal Equation from scratch](https://github.com/robmanch/Data-Science/tree/main/others/Linear-Regression-Using-Normal-Equation-from-scratch)
 
 
 ### Contact Me
