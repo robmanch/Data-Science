@@ -15,8 +15,8 @@ This repository holds all of my personal projects that I've done so far. The cur
     - [Facial-Keypoints](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision/Facial-Keypoints)
 
 2. [Natural Language Processing](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing)
-    - [E Commerce Rating Predictor](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing/E-Commerce-Rating-Predictor)
     - [Extracting part of a tweet that reflects sentiment](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing/Extracting-part-of-a-tweet-that-reflects-sentiment)
+    - [E Commerce Rating Predictor](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing/E-Commerce-Rating-Predictor)
 
 3. [Tableau](https://github.com/robmanch/Data-Science/tree/main/Tableau)
 4. [Web Scraping](https://github.com/robmanch/Data-Science/tree/main/Web%20Scraping)
