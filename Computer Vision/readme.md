@@ -1,1 +1,1 @@
-Hello!
+I love to work on computer vision problems. In the future, my goal is to work with drones to spray pesticides only on that area that contains unwanted plants such as weeds. This project can help in saving the life and cost of farmers. Also, it will help us to reduce the excessive use of pesticides, and save the environment.
