@@ -1,12 +1,3 @@
-# Group #5
-# Members:
-# - Garaye, Amanpreet Kaur
-# - Ndiweni, Cliford
-# - Guevara Calderon, Bayron Jose
-# - Manchanda, Robin
-#
-# Course code: AIDI 1100 Section 01
-# Submission Date: April 9th
 # Description: This program will extract stock symbols present in the news of www.prnewswire.com, 
 #              then, it will query the Yahoo Finance service and plot the Close Prices and Volume
 #              of the last 10 days. It will continue scanning on the background for new symbols at
