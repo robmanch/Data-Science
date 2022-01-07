@@ -21,8 +21,11 @@ This repository holds all of my personal projects that I've done so far. The cur
     - [E Commerce Rating Predictor](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing/E-Commerce-Rating-Predictor)
 
 3. [Tableau](https://github.com/robmanch/Data-Science/tree/main/Tableau)
-4. [Web Scraping](https://github.com/robmanch/Data-Science/tree/main/Web%20Scraping)
-5. [Others](https://github.com/robmanch/Data-Science/tree/main/others)
+    - [Executive Score Card](https://github.com/robmanch/Data-Science/tree/main/Tableau/Executive%20Score%20Card)
+    - [How did Andrew spend his money?](https://github.com/robmanch/Data-Science/tree/main/Tableau/How%20did%20Andrew%20spend%20his%20money%3F)
+5. [Web Scraping](https://github.com/robmanch/Data-Science/tree/main/Web%20Scraping)
+    - [Web Scraping Stock Tickers using Python](https://github.com/robmanch/Data-Science/tree/main/Web%20Scraping/Web%20Scraping%20Stock%20Tickers%20using%20Python)
+7. [Others](https://github.com/robmanch/Data-Science/tree/main/others)
 
     - [Linear Regression Using Normal Equation from scratch](https://github.com/robmanch/Data-Science/tree/main/others/Linear-Regression-Using-Normal-Equation-from-scratch)
 
