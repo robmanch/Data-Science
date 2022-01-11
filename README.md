@@ -15,6 +15,7 @@ This repository holds all of my personal projects that I've done so far. The cur
     - [Coronavirus disease (COVID-19) detection in Chest X-Ray images using majority voting based classifier](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision/COVID-19-detection-in-Chest-X-Ray-images-using-majority-voting-based-classifier)
     - [Dogs vs Cat Classifier using transfer learning](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision/Dogs-vs-Cat-Classifier-using-transfer-learning)
     - [Facial-Keypoints](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision/Facial-Keypoints)
+    - [Real-time Face Mask Detection using TensorFlow Object Detection API](https://github.com/robmanch/Data-Science/tree/main/Computer%20Vision/Real-time%20Face%20Mask%20Detection%20using%20TensorFlow%20Object%20Detection%20API)
 
 2. [Natural Language Processing](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing)
     - [Extracting part of a tweet that reflects sentiment](https://github.com/robmanch/Data-Science/tree/main/Natural%20Language%20Processing/Extracting-part-of-a-tweet-that-reflects-sentiment)
