@@ -1,1 +1,1 @@
-
+In GAN, generally, two neural networks are working under the hood: Discriminator and Generator. The goal of the discriminator is to detect the fake faces, on the other hand, the goal of the generator is to fool the discriminator by generating the samples (fake photos) that are as close as the original sample (real photos). With time, both networks learned simultaneously, but when the model achieves the nash equilibrium, the discriminator fails to tell the difference between real and fake (outputs 0.5 probability).
